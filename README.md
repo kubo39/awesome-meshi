@@ -65,6 +65,7 @@
 - [秀華 (調布)](https://tabelog.com/tokyo/A1326/A132601/13066253/)
 - [桑原亭 (東川口)](https://tabelog.com/saitama/A1102/A110201/11000347/)
 - [まぜそば七 (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13169375/)
+- [たけいち (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13175067/)
 - [広州市場 (新宿,etc)](https://tabelog.com/tokyo/A1304/A130401/13117096/)
 - [つけ麺大臣 (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13043151/)
 
@@ -74,6 +75,7 @@
 
 ## カレー
 
+- [茄子おやじ （下北沢）](https://tabelog.com/tokyo/A1318/A131802/13001385/)
 - [マリーアイランガニー (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13166471/)
 
 ## パスタ
