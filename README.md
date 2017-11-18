@@ -7,6 +7,7 @@
 - [SANKYU (大山町)](https://tabelog.com/tokyo/A1322/A132203/13090354/)
 - [いのうえ (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13129220/)
 - [二葉 (大岡山)](https://tabelog.com/tokyo/A1317/A131711/13124512/)
+- [清香園 (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13029867/)
 
 ### シュラスコ
 
