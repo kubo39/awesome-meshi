@@ -28,6 +28,7 @@
 
 ### 寿司
 
+- [鮨 花おか (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13219266/)
 - [すし若 (境港)](https://tabelog.com/tottori/A3103/A310301/31002132/)
 - [鮨まるばつ (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13122381/)
 
@@ -46,8 +47,8 @@
 
 ### うなぎ
 
+- [山美世 (松江)](https://tabelog.com/shimane/A3201/A320101/32005483/)
 - [おおはかや (松江)](https://tabelog.com/shimane/A3201/A320101/32000013/)
-
 
 ### おでん
 
@@ -68,10 +69,11 @@
 - [まぜそば七 (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13169375/)
 - [たけいち (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13175067/)
 - [広州市場 (新宿,etc)](https://tabelog.com/tokyo/A1304/A130401/13117096/)
-- [つけ麺大臣 (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13043151/)
+- [中華ソバ 櫻坂 (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13008320/)
 
 ## そば
 
+- [神代そば (松江)](https://tabelog.com/shimane/A3201/A320101/32000016/)
 - [きがるそば (松江)](https://tabelog.com/shimane/A3201/A320101/32000196/)
 
 ## カレー
