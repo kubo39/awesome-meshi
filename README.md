@@ -23,12 +23,14 @@
 ### すき焼き
 
 - [今半 (人形町)](https://tabelog.com/tokyo/A1302/A130204/13003059/)
+- [ろんぢん (松江)](https://tabelog.com/shimane/A3201/A320101/32005112/)
 
 ## 魚
 
 ### 寿司
 
 - [鮨 花おか (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13219266/)
+  - 日本酒: ○
 - [すし若 (境港)](https://tabelog.com/tottori/A3103/A310301/31002132/)
 - [鮨まるばつ (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13122381/)
 
@@ -43,7 +45,10 @@
 ### 和食全般
 
 - [なみの上 (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13190728/)
+  - 日本酒: ○
 - [宿場 (西調布)](https://tabelog.com/tokyo/A1326/A132601/13022694/)
+- [ニュー信州 (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13014685/)
+  - 日本酒: ○
 
 ### うなぎ
 
@@ -66,10 +71,11 @@
 
 - [秀華 (調布)](https://tabelog.com/tokyo/A1326/A132601/13066253/)
 - [桑原亭 (東川口)](https://tabelog.com/saitama/A1102/A110201/11000347/)
+- [むらさき山 (田町)](https://tabelog.com/tokyo/A1314/A131402/13046911/)
 - [まぜそば七 (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13169375/)
 - [たけいち (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13175067/)
-- [広州市場 (新宿,etc)](https://tabelog.com/tokyo/A1304/A130401/13117096/)
 - [中華ソバ 櫻坂 (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13008320/)
+- [広州市場 (新宿,etc)](https://tabelog.com/tokyo/A1304/A130401/13117096/)
 
 ## そば
 
@@ -94,27 +100,33 @@
 
 - [ピラブカウ (池袋)](https://tabelog.com/tokyo/A1305/A130501/13003982/)
 
-## フルーツバイキング
+## フランス料理
 
-- [タカノフルーツバー (新宿)](https://tabelog.com/tokyo/A1304/A130401/13004308/)
+- [ダックン・ダック (米子)](https://tabelog.com/tottori/A3103/A310301/31002661/)
 
 ## 酒
 
 ### ビール
 
-- [THE GRIFFON (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13053765/)
+- [Fam333 (北参道)](https://tabelog.com/tokyo/A1309/A130901/13227837/)
 - [BELGO (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13007044/)
 - [麦酒倶楽部 ポパイ (両国)](https://tabelog.com/tokyo/A1312/A131201/13007996/)
 
 ### 日本酒
 
 - [sakeba (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13154838/)
-- [ニュー信州 (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13014685/)
+- [日本酒蔵 六四三 (門前仲町)](https://tabelog.com/tokyo/A1313/A131303/13219505/)
+- [鼎 (新宿)](https://tabelog.com/tokyo/A1304/A130401/13000879/)
+- [酒席 松下 (田町)](https://tabelog.com/tokyo/A1314/A131402/13223806/)
 - [米心 (渋谷)](https://tabelog.com/tokyo/A1303/A130301/13159399/)
 
 ### いろいろ
 
 - [北国の味 ばんや (北海道・阿寒町)](https://tabelog.com/hokkaido/A0112/A011201/1005609/)
+
+## 和菓子
+
+- [喫茶きはる (松江)](https://tabelog.com/shimane/A3201/A320101/32002997/)
 
 ## カフェ・ケーキ
 
@@ -123,6 +135,12 @@
 - [珈琲館 (松江)](https://tabelog.com/shimane/A3201/A320101/32000018/)
 - [リビドー (松江)](https://tabelog.com/shimane/A3201/A320101/32002945/)
 - [フリップス (新宿)](https://tabelog.com/tokyo/A1304/A130401/13155769/)
+- [クーラン・デ・エール (松江)](https://tabelog.com/shimane/A3201/A320101/32000173/)
+
+## フルーツバイキング
+
+- [タカノフルーツバー (新宿)](https://tabelog.com/tokyo/A1304/A130401/13004308/)
+- [フォーシーズンズカフェ (西葛西)](https://tabelog.com/tokyo/A1313/A131305/13054425/)
 
 ## 紅茶
 
